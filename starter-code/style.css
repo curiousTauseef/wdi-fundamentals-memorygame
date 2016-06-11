@@ -47,11 +47,15 @@ a:hover {
     clear: both;
     height: 0;
     font-size: 0;
-}    
+}
 
 footer {
 	background: #808080;
 }
 header,footer,p {
 	text-align:center;
+}
+
+button {
+text-align:center;
 }
